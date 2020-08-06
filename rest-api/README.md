@@ -1,5 +1,5 @@
-<span>DB_CONNECTION=mysql</span>
-<span>DB_HOST=127.0.0.1</span>
+<p>DB_CONNECTION=mysql</p>
+<p>DB_HOST=127.0.0.1</p>
 <span>DB_PORT=3306</span>
 <span>DB_DATABASE=rest-api-sample</span>
 <span>DB_USERNAME=root</span>
