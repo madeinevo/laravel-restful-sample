@@ -1,9 +1,9 @@
 <p>DB_CONNECTION=mysql</p>
 <p>DB_HOST=127.0.0.1</p>
-<span>DB_PORT=3306</span>
-<span>DB_DATABASE=rest-api-sample</span>
-<span>DB_USERNAME=root</span>
-<span>DB_PASSWORD=</span>
+<p>DB_PORT=3306</p>
+<p>DB_DATABASE=rest-api-sample</p>
+<p>DB_USERNAME=root</p>
+<p>DB_PASSWORD=</p>
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
